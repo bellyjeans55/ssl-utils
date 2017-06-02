@@ -1,0 +1,7 @@
+Order of operations:
+
+create-service-key.sh
+create-service-csr.sh
+sign-service-csr.sh
+verify-service-cert.sh
+deploy-service.sh
