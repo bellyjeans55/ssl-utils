@@ -4,4 +4,5 @@ create-service-key.sh
 create-service-csr.sh
 sign-service-csr.sh
 verify-service-cert.sh
+bundle-service.sh
 deploy-service.sh
